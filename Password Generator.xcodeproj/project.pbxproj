@@ -22,7 +22,6 @@
 		DC4EDB00276FCA5C000A95EB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/MainMenu.xib; sourceTree = "<group>"; };
 		DC4EDB02276FCA5C000A95EB /* Password_Generator.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Password_Generator.entitlements; sourceTree = "<group>"; };
 		DC4EDB08276FCBF2000A95EB /* PasswordGenerator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PasswordGenerator.swift; sourceTree = "<group>"; };
-		DC53620D27747246006E8594 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,7 +57,6 @@
 				DC4EDAFB276FCA56000A95EB /* AppDelegate.swift */,
 				DC4EDB08276FCBF2000A95EB /* PasswordGenerator.swift */,
 				DC19760A27709F530048B855 /* 10million_password_list.txt */,
-				DC53620D27747246006E8594 /* README.md */,
 				DC4EDAFD276FCA5C000A95EB /* Assets.xcassets */,
 				DC4EDAFF276FCA5C000A95EB /* MainMenu.xib */,
 				DC4EDB02276FCA5C000A95EB /* Password_Generator.entitlements */,
