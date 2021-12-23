@@ -12,6 +12,7 @@
 		DC4EDAFE276FCA5C000A95EB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DC4EDAFD276FCA5C000A95EB /* Assets.xcassets */; };
 		DC4EDB01276FCA5C000A95EB /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = DC4EDAFF276FCA5C000A95EB /* MainMenu.xib */; };
 		DC4EDB09276FCBF2000A95EB /* PasswordGenerator.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC4EDB08276FCBF2000A95EB /* PasswordGenerator.swift */; };
+		DC7CEB5F2774F7BE009630CD /* PasswordGenerator_Screenshots.png in Resources */ = {isa = PBXBuildFile; fileRef = DC7CEB5E2774F7BE009630CD /* PasswordGenerator_Screenshots.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		DC4EDB00276FCA5C000A95EB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/MainMenu.xib; sourceTree = "<group>"; };
 		DC4EDB02276FCA5C000A95EB /* Password_Generator.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Password_Generator.entitlements; sourceTree = "<group>"; };
 		DC4EDB08276FCBF2000A95EB /* PasswordGenerator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PasswordGenerator.swift; sourceTree = "<group>"; };
+		DC7CEB5E2774F7BE009630CD /* PasswordGenerator_Screenshots.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = PasswordGenerator_Screenshots.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -38,6 +40,7 @@
 		DC4EDAEF276FCA56000A95EB = {
 			isa = PBXGroup;
 			children = (
+				DC7CEB592774F2D4009630CD /* Screenshots */,
 				DC4EDAFA276FCA56000A95EB /* Password Generator */,
 				DC4EDAF9276FCA56000A95EB /* Products */,
 			);
@@ -62,6 +65,14 @@
 				DC4EDB02276FCA5C000A95EB /* Password_Generator.entitlements */,
 			);
 			path = "Password Generator";
+			sourceTree = "<group>";
+		};
+		DC7CEB592774F2D4009630CD /* Screenshots */ = {
+			isa = PBXGroup;
+			children = (
+				DC7CEB5E2774F7BE009630CD /* PasswordGenerator_Screenshots.png */,
+			);
+			path = Screenshots;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -124,6 +135,7 @@
 			files = (
 				DC4EDAFE276FCA5C000A95EB /* Assets.xcassets in Resources */,
 				DC19760B27709F530048B855 /* 10million_password_list.txt in Resources */,
+				DC7CEB5F2774F7BE009630CD /* PasswordGenerator_Screenshots.png in Resources */,
 				DC4EDB01276FCA5C000A95EB /* MainMenu.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

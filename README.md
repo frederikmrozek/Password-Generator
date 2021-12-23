@@ -1,6 +1,8 @@
 # Password-Generator
 Password generator and strength tester
 
+![image](Screenshots/PasswordGenerator_Screenshots.png)
+
 ## Description
 
 This was a little test project for generating passwords and testing their strength. The program tests the strength by rating it by the **number of characters**, the **selection of characters** and the **diversity of the used characters**. Additionally it searches for the password in the list of the **10.000.000 most common** passwords and warns the user in the case, that it matches one in the list.
